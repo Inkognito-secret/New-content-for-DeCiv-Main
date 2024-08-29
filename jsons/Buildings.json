@@ -1,13 +1,11 @@
 
 [
 	{
-		"name": "",
+		"name": "Unity Manifesto",
 		"uniqueTo": "Free Cites",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"cost": 1,
+		"happiness": 2,
+		"culture": 1,
 		"isWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
