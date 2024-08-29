@@ -9,7 +9,7 @@
 		"isWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"uniques": ["Provides [1] [Weapons]","Never destroyed when the city is captured"
-	},
+			}
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
