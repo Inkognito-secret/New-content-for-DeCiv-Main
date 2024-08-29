@@ -17,7 +17,7 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"uniques": ["New [Military] units start with [15] Experience [in this city]","Destroyed when the city is captured"],
+		"requiredTech": "Agriculture"
 	}
 ]
