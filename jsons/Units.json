@@ -1,12 +1,12 @@
 [
 	{
-		"name": " Opolchenie",
+		"name": "Opolchenie",
 		"unitType": "Scrapper",
 		"uniqueTo": "Free Cites",
 		"replaces": "Spearman",
-		"movement": 2,
-		"strength": 20,
-		"cost": 50,
+		"movement":2,
+		"strength":20,
+		"cost":50,
 	}
 
 ]
