@@ -21,7 +21,7 @@
 		"afterPeace": "Let's end this bloodshed for the sake of our people.",
 		"tradeRequest": "What do you think about it?",
 
-		"outerColor": [16,16,16],
+		"outerColor": [150,150,150],
 		"innerColor": [255,200,200],
 		"unique": ["City-State territory always counts as friendly territory"],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
