@@ -1,8 +1,7 @@
 
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
+		"name": "",
 		"uniqueTo": "Free Cites",
 		"cost": 480,
 		"happiness": 12,
