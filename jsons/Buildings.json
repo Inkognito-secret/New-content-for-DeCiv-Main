@@ -8,7 +8,7 @@
 		"culture": 1,
 		"isWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"uniques": ["Provides [1] [Weapons]","Never destroyed when the city is captured"
 	},
 	{
 		"name": "Breeders",
