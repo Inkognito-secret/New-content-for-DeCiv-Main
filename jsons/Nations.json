@@ -22,7 +22,7 @@
 
 		"outerColor": [150,150,150],
 		"innerColor": [255,200,200],
-		"unique": ["City-State territory always counts as friendly territory"],
+		"unique": ["City-State territory always counts as friendly territory","[+20]% Strength for cities"], 
 		"cities": ["Troegorsk","Zapadny","Rāznas","Svatovo"],
 		"spyNames": ["Agnia","Naum","Mecheslav","Eva"], 
 	}
