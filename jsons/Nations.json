@@ -5,6 +5,8 @@
 		"adjective": ["survivals"],
 		"startBias": ["Wasteland"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Basil Horov",
+		"
 		
 		"startIntroPart1": "After the bombs fell to the ground, many died, leaving behind the dust of the past. We know what it was like, but we need to move forward together. Alone, we are weak in front of our enemies, but together we are strong. As long as we are united, we will move forward, our common happiness.",
 		"startIntroPart2": "Use your diplomatic capabilities to win over your neighbors and lead humanity on your behalf.",
@@ -15,9 +17,9 @@
 		"introduction": "We knew that we weren't the only ones who survived the war. I hope our friendship won't be ruined for some stupid reason.",
 		
 		"neutralHello": "Welcome, my friend!",
-		"hateHello": "What do you want now?",
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"hateHello": "Be careful... We've had enough of your crimes for a long time...",
+		"afterPeace": "Let's end this bloodshed for the sake of our people.",
+		"tradeRequest": "What do you think about it?",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
