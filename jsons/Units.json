@@ -10,8 +10,5 @@
 		"upgradesTo": "Militia",
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Rifling",
-		"uniques": [
-			"Low Tech",
-		],
 	}
 ]
