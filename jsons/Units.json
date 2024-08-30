@@ -12,7 +12,7 @@
 		"obsoleteTech": "Rifling",
 		"uniques": [
 			"Low Tech",
-			"[+50]% Strength <vs [Mounted] units>",
+			"[+50]% Strength <vs [Scrapper] units>",
 		],
 	}
 ]
