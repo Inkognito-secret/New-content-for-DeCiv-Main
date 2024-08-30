@@ -1,14 +1,4 @@
 [
-	{
-		"name": "Opolchenie",
-		"unitType": "Scrapper",
-		"uniqueTo": "Free cites",
-		"replaces": "Spearman",
-		"movement": 2,
-		"strength":17,
-		"cost": 18,
-		"upgradesTo": "Militia",
-		"hurryCostModifier": 20,
-		"obsoleteTech": "Rifling",
+        {
 	}
 ]
